@@ -1,0 +1,883 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{eic}{misc}{}
+    \name{author}{78}{}{%
+      {{hash=AA}{%
+         family={Accardi},
+         familyi={A\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=AJL}{%
+         family={Albacete},
+         familyi={A\bibinitperiod},
+         given={J.\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=AM}{%
+         family={Anselmino},
+         familyi={A\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=AN}{%
+         family={Armesto},
+         familyi={A\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=AEC}{%
+         family={Aschenauer},
+         familyi={A\bibinitperiod},
+         given={E.\bibnamedelima C.},
+         giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Bacchetta},
+         familyi={B\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={Boer},
+         familyi={B\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BWK}{%
+         family={Brooks},
+         familyi={B\bibinitperiod},
+         given={W.\bibnamedelima K.},
+         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=BT}{%
+         family={Burton},
+         familyi={B\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=CNB}{%
+         family={Chang},
+         familyi={C\bibinitperiod},
+         given={N.\bibnamedelima B.},
+         giveni={N\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=DWT}{%
+         family={Deng},
+         familyi={D\bibinitperiod},
+         given={W.\bibnamedelima T.},
+         giveni={W\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={Deshpande},
+         familyi={D\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DM}{%
+         family={Diehl},
+         familyi={D\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={Dumitru},
+         familyi={D\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DR}{%
+         family={Dupré},
+         familyi={D\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=ER}{%
+         family={Ent},
+         familyi={E\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=FS}{%
+         family={Fazio},
+         familyi={F\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=GH}{%
+         family={Gao},
+         familyi={G\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=GV}{%
+         family={Guzey},
+         familyi={G\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=HH}{%
+         family={Hakobyan},
+         familyi={H\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=HY}{%
+         family={Hao},
+         familyi={H\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=HD}{%
+         family={Hasch},
+         familyi={H\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=HR}{%
+         family={Holt},
+         familyi={H\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=HT}{%
+         family={Horn},
+         familyi={H\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Huang},
+         familyi={H\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=HA}{%
+         family={Hutton},
+         familyi={H\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=HC}{%
+         family={Hyde},
+         familyi={H\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=JMJ}{%
+         family={Jalilian-Marian},
+         familyi={J\bibinithyphendelim M\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Klein},
+         familyi={K\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KB}{%
+         family={Kopeliovich},
+         familyi={K\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=KY}{%
+         family={Kovchegov},
+         familyi={K\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=KK}{%
+         family={Kumar},
+         familyi={K\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=KK}{%
+         family={Kumerički},
+         familyi={K\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=LMAC}{%
+         family={Lamont},
+         familyi={L\bibinitperiod},
+         given={M.\bibnamedelima A.\bibnamedelima C.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  C\bibinitperiod},
+      }}%
+      {{hash=LT}{%
+         family={Lappi},
+         familyi={L\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=LJH}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={J.\bibnamedelima H.},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=LY}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=LEM}{%
+         family={Levin},
+         familyi={L\bibinitperiod},
+         given={E.\bibnamedelima M.},
+         giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=LFL}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={F.\bibnamedelima L.},
+         giveni={F\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=LV}{%
+         family={Litvinenko},
+         familyi={L\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=LTW}{%
+         family={Ludlam},
+         familyi={L\bibinitperiod},
+         given={T.\bibnamedelima W.},
+         giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Marquet},
+         familyi={M\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=MZE}{%
+         family={Meziani},
+         familyi={M\bibinitperiod},
+         given={Z.\bibnamedelima E.},
+         giveni={Z\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={McKeown},
+         familyi={M\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Metz},
+         familyi={M\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={Milner},
+         familyi={M\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=MVS}{%
+         family={Morozov},
+         familyi={M\bibinitperiod},
+         given={V.\bibnamedelima S.},
+         giveni={V\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=MAH}{%
+         family={Mueller},
+         familyi={M\bibinitperiod},
+         given={A.\bibnamedelima H.},
+         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Müller},
+         familyi={M\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=MD}{%
+         family={Müller},
+         familyi={M\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=NTP}{%
+         family={Nadel-Turonski},
+         familyi={N\bibinithyphendelim T\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=PH}{%
+         family={Paukkunen},
+         familyi={P\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Prokudin},
+         familyi={P\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PV}{%
+         family={Ptitsyn},
+         familyi={P\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=QX}{%
+         family={Qian},
+         familyi={Q\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=QJW}{%
+         family={Qiu},
+         familyi={Q\bibinitperiod},
+         given={J.\bibnamedelima W.},
+         giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=RMM}{%
+         family={Ramsey-Musolf},
+         familyi={R\bibinithyphendelim M\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RT}{%
+         family={Roser},
+         familyi={R\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SF}{%
+         family={Sabatié},
+         familyi={S\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Sassot},
+         familyi={S\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Schnell},
+         familyi={S\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Schweitzer},
+         familyi={S\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Sichtermann},
+         familyi={S\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Stratmann},
+         familyi={S\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Strikman},
+         familyi={S\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Sullivan},
+         familyi={S\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=TS}{%
+         family={Taneja},
+         familyi={T\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=TT}{%
+         family={Toll},
+         familyi={T\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=TD}{%
+         family={Trbojevic},
+         familyi={T\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=UT}{%
+         family={Ullrich},
+         familyi={U\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=VR}{%
+         family={Venugopalan},
+         familyi={V\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=VS}{%
+         family={Vigdor},
+         familyi={V\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=VW}{%
+         family={Vogelsang},
+         familyi={V\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=WC}{%
+         family={Weiss},
+         familyi={W\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=XBW}{%
+         family={Xiao},
+         familyi={X\bibinitperiod},
+         given={B.\bibnamedelima W.},
+         giveni={B\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=YF}{%
+         family={Yuan},
+         familyi={Y\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=ZYH}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Y.\bibnamedelima H.},
+         giveni={Y\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=ZL}{%
+         family={Zheng},
+         familyi={Z\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {arXiv}%
+    }
+    \keyw{Nuclear Experiment (nucl-ex), High Energy Physics - Experiment
+  (hep-ex), High Energy Physics - Phenomenology (hep-ph), Nuclear Theory
+  (nucl-th), FOS: Physical sciences, FOS: Physical sciences}
+    \strng{namehash}{AA+1}
+  \strng{fullhash}{AAAJLAMANAECBABDBWKBTCNBDWTDADMDADRERFSGHGVHHHYHDHRHTHMHAHCJMJKSKBKYKKKKLMACLTLJHLYLEMLFLLVLTWMCMZEMRMAMRMVSMAHMBMDNTPPHPAPVQXQJWRMMRTSFSRSGSPSESMSMSMTSTTTDUTVRVSVWWCXBWYFZYHZL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \verb{doi}
+    \verb 10.48550/ARXIV.1212.1701
+    \endverb
+    \field{title}{Electron Ion Collider: The Next QCD Frontier - Understanding
+  the glue that binds us all}
+    \verb{url}
+    \verb https://arxiv.org/abs/1212.1701
+    \endverb
+    \field{year}{2012}
+  \endentry
+
+  \entry{albrow}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AM}{%
+         family={Albrow},
+         familyi={A\bibinitperiod},
+         given={M.G.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CT}{%
+         family={Coughlin},
+         familyi={C\bibinitperiod},
+         given={T.D.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=FJ}{%
+         family={Forshaw},
+         familyi={F\bibinitperiod},
+         given={J.R.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier {BV}}%
+    }
+    \strng{namehash}{AMCTFJ1}
+    \strng{fullhash}{AMCTFJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \verb{doi}
+    \verb 10.1016/j.ppnp.2010.06.001
+    \endverb
+    \field{number}{2}
+    \field{pages}{149\bibrangedash 184}
+    \field{title}{Central exclusive particle production at high energy hadron
+  colliders}
+    \verb{url}
+    \verb https://doi.org/10.1016%2Fj.ppnp.2010.06.001
+    \endverb
+    \field{volume}{65}
+    \field{journaltitle}{Progress in Particle and Nuclear Physics}
+    \field{year}{2010}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{UPS}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BCA}{%
+         family={Bertulani},
+         familyi={B\bibinitperiod},
+         given={Carlos\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=KSR}{%
+         family={Klein},
+         familyi={K\bibinitperiod},
+         given={Spencer\bibnamedelima R.},
+         giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=NJ}{%
+         family={Nystrand},
+         familyi={N\bibinitperiod},
+         given={Joakim},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Annual Reviews}%
+    }
+    \strng{namehash}{BCAKSRNJ1}
+    \strng{fullhash}{BCAKSRNJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.1146/annurev.nucl.55.090704.151526
+    \endverb
+    \field{number}{1}
+    \field{pages}{271\bibrangedash 310}
+    \field{title}{{PHYSICS} {OF} {ULTRA}-{PERIPHERAL} {NUCLEAR} {COLLISIONS}}
+    \verb{url}
+    \verb https://doi.org/10.1146%2Fannurev.nucl.55.090704.151526
+    \endverb
+    \field{volume}{55}
+    \field{journaltitle}{Annual Review of Nuclear and Particle Science}
+    \field{year}{2005}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{fermi}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=FE}{%
+         family={Fermi},
+         familyi={F\bibinitperiod},
+         given={Enrico},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{WORLD} {SCIENTIFIC}}%
+    }
+    \strng{namehash}{FE1}
+    \strng{fullhash}{FE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{booktitle}{Electromagnetic Probes of Fundamental Physics}
+    \verb{doi}
+    \verb 10.1142/9789812704214_0026
+    \endverb
+    \field{title}{On the Theory of Collisions between Atoms and Electrically
+  Charged Particles}
+    \verb{url}
+    \verb https://doi.org/10.1142%2F9789812704214_0026
+    \endverb
+    \field{year}{2003}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{goncalves3}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GVP}{%
+         family={Gon{\c{c} }alves},
+         familyi={G\bibinitperiod},
+         given={V.\bibnamedelima P.},
+         giveni={V\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=BCA}{%
+         family={Bertulani},
+         familyi={B\bibinitperiod},
+         given={C.\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society ({APS})}%
+    }
+    \strng{namehash}{GVPBCA1}
+    \strng{fullhash}{GVPBCA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \verb{doi}
+    \verb 10.1103/physrevc.65.054905
+    \endverb
+    \field{number}{5}
+    \field{title}{Peripheral heavy ion collisions as a probe of the nuclear
+  gluon distribution}
+    \verb{url}
+    \verb https://doi.org/10.1103%2Fphysrevc.65.054905
+    \endverb
+    \field{volume}{65}
+    \field{journaltitle}{Physical Review C}
+    \field{year}{2002}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{goncalves2}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GVP}{%
+         family={Gon{\c{c}}alves},
+         familyi={G\bibinitperiod},
+         given={V.\bibnamedelima P.},
+         giveni={V\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=MMVT}{%
+         family={Machado},
+         familyi={M\bibinitperiod},
+         given={M.\bibnamedelima V.\bibnamedelima T.},
+         giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim
+  T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {Springer Science}%
+      {Business Media {LLC}}%
+    }
+    \strng{namehash}{GVPMMVT1}
+    \strng{fullhash}{GVPMMVT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \verb{doi}
+    \verb 10.1140/epjc/s2004-02044-7
+    \endverb
+    \field{number}{3}
+    \field{pages}{319\bibrangedash 328}
+    \field{title}{Nuclear exclusive vector meson photoproduction}
+    \verb{url}
+    \verb https://doi.org/10.1140%2Fepjc%2Fs2004-02044-7
+    \endverb
+    \field{volume}{38}
+    \field{journaltitle}{The European Physical Journal C}
+    \field{year}{2004}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{goncalves1}{article}{}
+    \name{author}{5}{}{%
+      {{hash=GV}{%
+         family={Gon{\c{c}}alves},
+         familyi={G\bibinitperiod},
+         given={V.{\hspace{0.167em} }P.},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Machado},
+         familyi={M\bibinitperiod},
+         given={M.{\hspace{0.167em}}V.{\hspace{0.167em}}T.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Moreira},
+         familyi={M\bibinitperiod},
+         given={B.{\hspace{0.167em}}D.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=NF}{%
+         family={Navarra},
+         familyi={N\bibinitperiod},
+         given={F.{\hspace{0.167em}}S.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=dSGS}{%
+         prefix={dos},
+         prefixi={d\bibinitperiod},
+         family={Santos},
+         familyi={S\bibinitperiod},
+         given={G.\bibnamedelima Sampaio},
+         giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society ({APS})}%
+    }
+    \strng{namehash}{GV+1}
+    \strng{fullhash}{GVMMMBNFSGSd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \verb{doi}
+    \verb 10.1103/physrevd.96.094027
+    \endverb
+    \field{number}{9}
+    \field{title}{Color dipole predictions for the exclusive vector meson
+  photoproduction in $pp$/$pPb$/$PbPb$ collisions at run 2 LHC energies}
+    \verb{url}
+    \verb https://doi.org/10.1103%2Fphysrevd.96.094027
+    \endverb
+    \field{volume}{96}
+    \field{journaltitle}{Physical Review D}
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{starlight}{article}{}
+    \name{author}{5}{}{%
+      {{hash=KSR}{%
+         family={Klein},
+         familyi={K\bibinitperiod},
+         given={Spencer\bibnamedelima R.},
+         giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=NJ}{%
+         family={Nystrand},
+         familyi={N\bibinitperiod},
+         given={Joakim},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Seger},
+         familyi={S\bibinitperiod},
+         given={Janet},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=GY}{%
+         family={Gorbunov},
+         familyi={G\bibinitperiod},
+         given={Yuri},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Butterworth},
+         familyi={B\bibinitperiod},
+         given={Joey},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier {BV}}%
+    }
+    \strng{namehash}{KSR+1}
+    \strng{fullhash}{KSRNJSJGYBJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \verb{doi}
+    \verb 10.1016/j.cpc.2016.10.016
+    \endverb
+    \field{pages}{258\bibrangedash 268}
+    \field{title}{{STARlight}: A Monte Carlo simulation program for
+  ultra-peripheral collisions of relativistic ions}
+    \verb{url}
+    \verb https://doi.org/10.1016%2Fj.cpc.2016.10.016
+    \endverb
+    \field{volume}{212}
+    \field{journaltitle}{Computer Physics Communications}
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{eepa}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PIA}{%
+         family={Pshenichnov},
+         familyi={P\bibinitperiod},
+         given={I.\bibnamedelima A.},
+         giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PIA1}
+    \strng{fullhash}{PIA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \verb{doi}
+    \verb 10.1134/S1063779611020067
+    \endverb
+    \field{pages}{215\bibrangedash 250}
+    \field{title}{{Electromagnetic excitation and fragmentation of
+  ultrarelativistic nuclei}}
+    \field{volume}{42}
+    \field{journaltitle}{Phys. Part. Nucl.}
+    \field{year}{2011}
+  \endentry
+
+  \entry{williams}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WEJ}{%
+         family={Williams},
+         familyi={W\bibinitperiod},
+         given={E.\bibnamedelima J.},
+         giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WEJ1}
+    \strng{fullhash}{WEJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{4}
+    \field{pages}{1\bibrangedash 50}
+    \field{title}{{Correlation of certain collision problems with radiation
+  theory}}
+    \field{volume}{13N4}
+    \field{journaltitle}{Kong. Dan. Vid. Sel. Mat. Fys. Med.}
+    \field{year}{1935}
+  \endentry
+\enddatalist
+\endinput
