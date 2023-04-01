@@ -1,0 +1,143 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{fermi}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=FE}{%
+         family={Fermi},
+         familyi={F\bibinitperiod},
+         given={Enrico},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{WORLD} {SCIENTIFIC}}%
+    }
+    \strng{namehash}{FE1}
+    \strng{fullhash}{FE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{booktitle}{Electromagnetic Probes of Fundamental Physics}
+    \verb{doi}
+    \verb 10.1142/9789812704214_0026
+    \endverb
+    \field{title}{On the Theory of Collisions between Atoms and Electrically
+  Charged Particles}
+    \verb{url}
+    \verb https://doi.org/10.1142%2F9789812704214_0026
+    \endverb
+    \field{year}{2003}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{jackson}{book}{}
+    \name{author}{1}{}{%
+      {{hash=JJD}{%
+         family={Jackson},
+         familyi={J\bibinitperiod},
+         given={John\bibnamedelima David},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley}%
+    }
+    \keyw{Fields Maxwell SummerStudentReadList09 book collisions
+  electromagnetic electrostatic equations magnetostatics particle physics
+  radiation relativity special waves}
+    \strng{namehash}{JJD1}
+    \strng{fullhash}{JJD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{edition}{3rd ed.}
+    \field{isbn}{9780471309321}
+    \field{title}{Classical electrodynamics}
+    \verb{url}
+    \verb http://cdsweb.cern.ch/record/490457
+    \endverb
+    \list{location}{1}{%
+      {New York, {NY}}%
+    }
+    \field{year}{1999}
+  \endentry
+
+  \entry{r0}{book}{}
+    \name{author}{2}{}{%
+      {{hash=KKS}{%
+         family={Krane},
+         familyi={K\bibinitperiod},
+         given={Kenneth\bibnamedelima S.},
+         giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=HD}{%
+         family={Halliday},
+         familyi={H\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley}%
+    }
+    \keyw{Nuclear physics}
+    \strng{namehash}{KKSHD1}
+    \strng{fullhash}{KKSHD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{isbn}{978-0-471-80553-3}
+    \field{title}{Introductory nuclear physics}
+    \list{location}{1}{%
+      {New York}%
+    }
+    \field{year}{1987}
+  \endentry
+
+  \entry{eepa}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PIA}{%
+         family={Pshenichnov},
+         familyi={P\bibinitperiod},
+         given={I.\bibnamedelima A.},
+         giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PIA1}
+    \strng{fullhash}{PIA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \verb{doi}
+    \verb 10.1134/S1063779611020067
+    \endverb
+    \field{pages}{215\bibrangedash 250}
+    \field{title}{{Electromagnetic excitation and fragmentation of
+  ultrarelativistic nuclei}}
+    \field{volume}{42}
+    \field{journaltitle}{Phys. Part. Nucl.}
+    \field{year}{2011}
+  \endentry
+\enddatalist
+\endinput
